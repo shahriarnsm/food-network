@@ -43,7 +43,7 @@
 
     .half-width{
         width: 100%;
-        margin-left: 15%;
+        margin-left: 10%;
         margin-bottom:5%;
     }
 
@@ -52,6 +52,7 @@
     {
         width: 65%;
         padding-top: 4%;
+        padding-right: 10%;
     }
 
 
